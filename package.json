@@ -1,0 +1,14 @@
+{
+  "name": "base64_encoder_decoder",
+  "version": "1.0.0",
+  "description": "encodes/decodes a string from base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.1.7"
+  }
+}
